@@ -58,6 +58,7 @@ body {
 
 .receta {
   padding-top: 70px;
+  padding-right: 70px;
 }
 
 
@@ -98,6 +99,7 @@ li{
 
 .container-direcciones{
   padding-bottom: 70px;
+  padding-right: 70px;
 }
 
 #lista-numeros {
